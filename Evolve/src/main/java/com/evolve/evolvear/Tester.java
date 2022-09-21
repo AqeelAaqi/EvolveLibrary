@@ -1,4 +1,4 @@
-package com.evolvear.evolve;
+package com.evolve.evolvear;
 
 import android.content.Context;
 import android.content.Intent;

@@ -1,4 +1,4 @@
-package com.evolvear.evolvelibrary;
+package com.evolve.evolvear;
 
 import org.junit.Test;
 

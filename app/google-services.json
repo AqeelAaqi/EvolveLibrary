@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "866142250359",
+    "project_id": "evolve-apps-1616738986502",
+    "storage_bucket": "evolve-apps-1616738986502.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866142250359:android:4e05da917d275ad1d32d72",
+        "android_client_info": {
+          "package_name": "com.evolve.virtu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866142250359-6mc7ht8jnuos8so6iljae042ece2voql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evolve.virtu",
+            "certificate_hash": "4e61d8ca3a0149ba97f0ad00966cf6aa9f6ed537"
+          }
+        },
+        {
+          "client_id": "866142250359-63e577tal736cq2spi4g04nf680738vt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBERKgreWp1EdDQOGvqKkZjHIKImxF-o5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866142250359-63e577tal736cq2spi4g04nf680738vt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
