@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">EvolveLibrary</string>
+    <string name="facebook_app_id">832764313942215</string>
+    <string name="fb_login_protocol_scheme">fb832764313942215</string>
 </resources>
