@@ -43,6 +43,7 @@ For facebook login you will need to add the following to your android manifest
 <meta-data
         android:name="com.facebook.sdk.ApplicationId"
         android:value="@string/facebook_app_id" />
+```
 
 ```java
 import com.evolve.evolvear.Facebook;
