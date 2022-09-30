@@ -2,7 +2,7 @@
 
 [![](https://jitpack.io/v/AqeelAaqi/EvolveLibrary.svg)](https://jitpack.io/#AqeelAaqi/EvolveLibrary)
 
-This is Social login library in which you can login through Facebook, LinkedIn and Google
+This is Social login library in which you can login through Facebook and Google
 
 ## Installation
 
