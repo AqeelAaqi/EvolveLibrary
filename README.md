@@ -93,6 +93,7 @@ Please view the Goolgle documentation if you face any issue related to dependenc
 	
 ```
 #### Step 2. 
+```gradle.properties
 android.enableJetifier=true
 ```
 
